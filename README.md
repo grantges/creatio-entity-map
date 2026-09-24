@@ -1,4 +1,4 @@
-# Entity Map
+# Creatio Entity Map
 
 Visualise a Creatio OData schema as an interactive entity-relationship diagram.
 
